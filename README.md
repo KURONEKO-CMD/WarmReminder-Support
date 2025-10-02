@@ -14,7 +14,7 @@ Hello! Thank you for using our app. If you encounter any issues or have any sugg
 
 **Privacy Policy**
 
-- [Click here to view our Privacy Policy](https://github.com/KURONEKO-CMD/WarmReminder-Support/blob/main/privacy-policy.md)) 
+- [Click here to view our Privacy Policy](https://github.com/KURONEKO-CMD/WarmReminder-Support/blob/main/privacy-policy.md)
 
 ### **日本語 (Japanese)**
 
