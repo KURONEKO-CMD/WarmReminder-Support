@@ -14,7 +14,7 @@ Hello! Thank you for using our app. If you encounter any issues or have any sugg
 
 **Privacy Policy**
 
-- [Click here to view our Privacy Policy](https://www.google.com/url?sa=E&source=gmail&q=https://your-privacy-policy-link-here.com) 
+- [Click here to view our Privacy Policy](https://github.com/KURONEKO-CMD/WarmReminder-Support/blob/main/privacy-policy.md)) 
 
 ### **日本語 (Japanese)**
 
@@ -26,8 +26,7 @@ Hello! Thank you for using our app. If you encounter any issues or have any sugg
 
 **プライバシーポリシー (Privacy Policy)**
 
-- [プライバシーポリシーはこちら](https://www.google.com/url?sa=E&source=gmail&q=https://your-privacy-policy-link-here.com) 
-
+- [プライバシーポリシーはこちら](https://github.com/KURONEKO-CMD/WarmReminder-Support/blob/main/privacy-policy.md)
 ### **简体中文 (Chinese, Simplified)**
 
 您好！感谢您使用“极简暖心提醒”App。如果您在使用过程中遇到任何问题，或有任何建议，请通过以下方式联系我们。
