@@ -1,8 +1,8 @@
 # 欢迎来到“极简暖心提醒”App支持页面
 
-# Welcome to the Support Page for "Kind Reminder" App
+# Welcome to the Support Page for "Simple Warm Reminder" App
 
-# 「ほっとリマインダー」アプリ・サポートページへようこそ
+# 「やさしいリマインダー」アプリ・サポートページへようこそ
 
 ### **English**
 
@@ -37,4 +37,4 @@ Hello! Thank you for using our app. If you encounter any issues or have any sugg
 
 **隐私政策 (Privacy Policy)**
 
-- [点击这里查看我们的隐私政策](https://www.google.com/url?sa=E&source=gmail&q=https://your-privacy-policy-link-here.com) 
+- [点击这里查看我们的隐私政策](https://github.com/KURONEKO-CMD/WarmReminder-Support/blob/main/privacy-policy.md)
